@@ -1,0 +1,18 @@
+{
+  "folders": [
+	{
+		"name": "Main",
+		"path": "../../Main"
+	},
+	{
+		"name": "Intro.SE",
+		"path": "../../Intro.SE"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "PersonalProjects"
+  }
+}

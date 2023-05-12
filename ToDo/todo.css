@@ -1,0 +1,27 @@
+#container{
+    justify-content: center;
+    background-color: orange;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    border: 5px solid black;
+    border-radius: 50px;
+}
+#title{
+    text-align: center;
+}
+#toDoItems{
+    text-align: center;
+}
+#hr{
+    border: 1px solid lightgray;
+    opacity: .5;
+    width: 80%;
+    margin: auto;
+}
+#push {
+    border-radius: 50%;
+}
+#textBox{
+    border-radius: 50px;
+}

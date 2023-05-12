@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to right, red, orange);
+}
+.box{
+    align-items: center;
+    text-align: center;
+}
+
+.name{
+color: white;
+}
+.Start{
+    background-color: red;
+    color: white;
+}
